@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+config.json
+*_cache.pkl
+_csp_db_copy.cmdb*
+*.lnk
+*.log
+.env
+.env.*
+_docs/
+.DS_Store
+Thumbs.db
+Desktop.ini

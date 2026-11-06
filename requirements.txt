@@ -1,0 +1,5 @@
+transformers==5.17.0
+PySide6==6.12.0
+numpy
+pillow
+pywin32
